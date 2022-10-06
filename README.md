@@ -1,0 +1,3 @@
+# audio2txt
+
+OCR FROM AUDIO FILE OGG OPUS WAV MP3
