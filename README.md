@@ -10,3 +10,4 @@ install ffmpeg
 googletrans             3.1.0a0
  
  install flack.exe and move or copy  to c:\windows\system32\flac (not .exe)
+https://ftp.osuosl.org/pub/xiph/releases/flac/
